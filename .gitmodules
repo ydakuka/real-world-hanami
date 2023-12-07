@@ -1,0 +1,73 @@
+[submodule "apps/ossboard"]
+	path = apps/ossboard
+	url = git@github.com:ossboard-org/ossboard.git
+	branch = master
+[submodule "apps/decafsucks"]
+	path = apps/decafsucks
+	url = git@github.com:decafsucks/decafsucks.git
+[submodule "demos/hanami-jwt-example"]
+	path = demos/hanami-jwt-example
+	url = git@github.com:nickgnd/hanami-jwt-example.git
+[submodule "apps/pinfluence"]
+	path = apps/pinfluence
+	url = git@github.com:rafaels88/pinfluence.git
+[submodule "demos/bookshelf"]
+	path = demos/bookshelf
+	url = git@github.com:hanami/bookshelf.git
+[submodule "demos/hemo"]
+	path = demos/hemo
+	url = git@github.com:bkuhlmann/hemo.git
+[submodule "demos/hanami-realworld-example-app"]
+	path = demos/hanami-realworld-example-app
+	url = git@github.com:blrB/hanami-realworld-example-app.git
+[submodule "apps/housing-list"]
+	path = apps/housing-list
+	url = git@github.com:nfilzi/housing-list.git
+[submodule "demos/usgard"]
+	path = demos/usgard
+	url = git@github.com:GabrielMalakias/usgard.git
+[submodule "apps/flashcard-genius"]
+	path = apps/flashcard-genius
+	url = git@github.com:Bajena/flashcard-genius.git
+[submodule "demos/hanami-api-example"]
+	path = demos/hanami-api-example
+	url = git@github.com:jodosha/hanami-api-example.git
+[submodule "apps/feed-the-hungry"]
+	path = apps/feed-the-hungry
+	url = git@github.com:feed-the-hungry/backend.git
+[submodule "apps/adamantium"]
+	path = apps/adamantium
+	url = git@github.com:dNitza/adamantium.git
+[submodule "apps/linkin"]
+	path = apps/linkin
+	url = git@github.com:and1zero/linkin.git
+[submodule "apps/cookie_box"]
+	path = apps/cookie_box
+	url = git@github.com:davydovanton/cookie_box.git
+[submodule "apps/contributors"]
+	path = apps/contributors
+	url = git@github.com:hanami/contributors.git
+[submodule "apps/makedecision-org"]
+	path = apps/makedecision-org
+	url = git@github.com:makedecision-org/core.git
+[submodule "demos/upment-hanami"]
+	path = demos/upment-hanami
+	url = git@github.com:AlexanderMint/upment-hanami.git
+[submodule "demos/distruct-me"]
+	path = demos/distruct-me
+	url = git@github.com:MorozovaLiuda/distruct-me.git
+[submodule "demos/repressed_museum"]
+	path = demos/repressed_museum
+	url = git@github.com:vasspilka/repressed_museum.git
+[submodule "demos/bookshelf-delivery-example"]
+	path = demos/bookshelf-delivery-example
+	url = git@github.com:bruz/bookshelf-delivery-example.git
+[submodule "demos/hanami-chat-example"]
+	path = demos/hanami-chat-example
+	url = git@github.com:nickgnd/hanami-chat-example.git
+[submodule "demos/deutsch"]
+	path = demos/deutsch
+	url = git@github.com:mjacobus/deutsch.git
+[submodule "demos/burn-my-fat"]
+	path = demos/burn-my-fat
+	url = git@github.com:burn-my-fat/web.git
