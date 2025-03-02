@@ -71,3 +71,6 @@
 [submodule "demos/burn-my-fat"]
 	path = demos/burn-my-fat
 	url = git@github.com:burn-my-fat/web.git
+[submodule "demos/hanami-linebot-demo"]
+	path = demos/hanami-linebot-demo
+	url = git@github.com:elct9620/hanami-linebot-demo.git
